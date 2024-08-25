@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi everyone! My name's Roman Liubymenko
 
-<!--
-**rliubymenko/rliubymenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Java Software Developer passionate about modern approaches to building apps<br>
+I'm interested in creating web applications with make use of microservice architecture, big data, and front-end development
 
-Here are some ideas to get you started:
+### Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,ts,spring,hibernate,docker,kafka,angular,react,html,css,idea&theme=light" />
+  </a>
+</p>
+
+
