@@ -1,7 +1,7 @@
 ## 👋 Hi everyone! My name's Roman Liubymenko
 
 I'm a Java Software Developer passionate about modern approaches to building apps<br>
-I'm interested in creating web applications with make use of microservice architecture, big data, and front-end development
+I'm interested in creating web applications with make use of microservice architecture, big data, and front-end tools
 
 ### Languages and Tools
 
